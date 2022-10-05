@@ -1,0 +1,260 @@
+#color
+{
+    background-color: #008290
+}
+
+#image
+{
+  position: absolute;
+  margin-left: -10px;
+  margin-right: +20px;
+  margin-top: -30px;
+  width: 100%;
+  height: 13em;
+  background: url(http://www.hilltopdevelopers.com/wp-content/uploads/2017/08/AdobeStock_79161609-min.jpeg) ;
+  vertical-align: right;
+}
+
+#logo
+{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  justify-content: left;
+  padding-top: 20px;
+  padding-left: 10px;
+
+}
+
+#rectangle
+{
+      width:550px;
+      height:160px;
+      background:white;
+      margin-top: 15px;
+      margin-left: 10px;
+      border-radius: 1em;
+      border-width:3px;
+
+}
+
+#text
+{
+  padding-left: 160px;
+  position: absolute;
+  width: 383px;
+  height: 164px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+  color: #CE2539;
+}
+
+#navtools
+{
+  margin-top: 174px;
+  margin-left: -10px;
+  background-color: #CE2539;
+  width: 100.85%;
+  Height:80px;
+}
+
+#navstylewords
+{
+  position: absolute;
+  width: 98px;
+  height: 47px;
+
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 47px;
+
+  color: #0D0D0D;
+  padding-top: 20px;
+}
+
+#aboutus
+{
+  position: absolute;
+  width: 100%;
+  height: 1200px;
+  margin-left: -10px;
+  background-color: white;
+}
+
+#aboutusrectanglebig
+{
+  width:660px;
+  height:680px;
+  background:#CE2539;
+  margin-top: 195px;
+  margin-left: 1200px;
+  border-radius: 3em;
+  border-width:3px;
+
+}
+
+#TextInBigRectangle
+{
+  position: absolute;
+  width: 599px;
+  height: 470px;
+
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  padding-left: 2em;
+  padding-top: 1em;
+  color: #161616;
+
+}
+
+#MiniRectangle
+{
+  position: absolute;
+  width:400px;
+  height: 110px;
+  background:#CE2539;
+  margin-top: -830px;
+  margin-left: 190px;
+  border-radius: 3em;
+  border-width:3px;
+}
+
+#TextInMiniRectangle
+{
+  position: absolute;
+  width: 330px;
+  height: 46px;
+
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 65px;
+
+  color: #161616;
+
+  padding-left: 1.5em;
+  margin-top: 0.5em;
+}
+
+#imageHappy
+{
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  background: url(https://lectoria.pro/assets/files/images/for_whom/for_whom_1.jpg) ;
+  margin-top: -42em;
+  margin-left: 15em;
+  border-radius: 1em;
+}
+
+#GorodilovStyle
+{
+  position: absolute;
+  width: 100%;
+  height: 1500px;
+  margin-left: -10px;
+  margin-top: 1200px;
+  background-color: #008290;
+}
+
+#imageGorodilov
+{
+  position: absolute;
+  width: 500px;
+  height: 667px;
+  background: url(Gorodilov.jpg) ;
+  margin-top: 29em;
+  margin-left: 25em;
+  border-radius: 3em;
+}
+
+#TextGorodilov
+{
+  position: absolute;
+  width: 580px;
+  height: 553px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #FFFFFF;
+  margin-left: 35em;
+  margin-top: 14em;
+}
+
+#Gorodilovrectangle
+{
+  position: absolute;
+  width:674px;
+  height: 181px;
+  background:white;
+  margin-top: 1187px;
+  margin-left: 301px;
+  border-radius: 2em;
+  border-width:3px;
+}
+
+#TextGorodilovRectangle
+{
+  position: absolute;
+  width: 489px;
+  height: 94px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+
+  color:#008290;
+
+  padding-left: 217px;
+  padding-top: 0px;
+}
+#TextGorodilovRectangle1
+{
+  position: absolute;
+  width: 489px;
+  height: 94px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+
+  color:#008290;
+
+  padding-left: 150px;
+  margin-top: 98px;
+}
+#endstyle
+{
+    position: absolute;
+    width: 100%;
+    height: 1100px;
+    margin-left: -10px;
+    margin-top: 2700px;
+    background-color: #006363;
+}
+
+#endimage
+{
+  width: 1497px;
+  height: 1015px;
+  margin-left: 0em;
+  margin-top: 0em;
+  background: url(end.jpg) ;
+}
